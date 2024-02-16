@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-16T14:14:30.392Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="TF1AyCTg_uwRN4FN9EuJ" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-16T14:15:04.681Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="JsZ_eZwwG303qQaTFaL-" version="23.1.5" type="github">
   <diagram name="Page-1" id="BobhWS3V_nJsxUucMAqK">
-    <mxGraphModel dx="1688" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1158" dy="453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -89,7 +89,7 @@
             <mxPoint x="440" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s3wXGM1J8-yaSzXXuMQC-27" value="Remise de carte à&amp;nbsp;&lt;br&gt;l&#39;acceuile" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+        <mxCell id="s3wXGM1J8-yaSzXXuMQC-27" value="Remise de carte à&amp;nbsp;&lt;br&gt;l&#39;accueil" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="380" y="890" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s3wXGM1J8-yaSzXXuMQC-28" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="s3wXGM1J8-yaSzXXuMQC-27" parent="1" target="s3wXGM1J8-yaSzXXuMQC-29">
