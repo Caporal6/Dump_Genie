@@ -1,9 +1,78 @@
-<mxfile host="app.diagrams.net" modified="2024-03-01T15:48:56.266Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" version="23.1.6" etag="hRia85fAAyon8tJTAWwv" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-01T15:56:54.564Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="C7mpkuCqCCUmeTqkBulV" version="23.1.6" type="github">
   <diagram name="Page-1" id="Vws1U5j5d2DntUfvJFyu">
-    <mxGraphModel>
+    <mxGraphModel dx="875" dy="921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1-cRLqoMps8djchPio7K-1" value="1" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="80" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="1-cRLqoMps8djchPio7K-2" value="2" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="530" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="1-cRLqoMps8djchPio7K-3" value="Porteur &lt;br&gt;de carte de débit" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="610" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1-cRLqoMps8djchPio7K-4" value="Distribution&lt;br&gt;d&#39;argent" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="620" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1-cRLqoMps8djchPio7K-5" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
+          <mxGeometry x="180" y="646" width="170" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="1-cRLqoMps8djchPio7K-6" value="Client porteur&lt;br&gt;de carte de débit" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="920" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1-cRLqoMps8djchPio7K-7" value="Consultation solde" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="830" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1-cRLqoMps8djchPio7K-8" value="Dépôt" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="950" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1-cRLqoMps8djchPio7K-9" value="Numéraire" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="530" y="900" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1-cRLqoMps8djchPio7K-10" value="Chèque" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="530" y="990" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1-cRLqoMps8djchPio7K-11" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
+          <mxGeometry x="180" y="976" width="170" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="1-cRLqoMps8djchPio7K-12" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="950" as="sourcePoint" />
+            <mxPoint x="350" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1-cRLqoMps8djchPio7K-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="950" as="sourcePoint" />
+            <mxPoint x="520" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1-cRLqoMps8djchPio7K-14" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="990" as="sourcePoint" />
+            <mxPoint x="520" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1-cRLqoMps8djchPio7K-15" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="890" as="sourcePoint" />
+            <mxPoint x="150" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1-cRLqoMps8djchPio7K-16" value="Opérateur&lt;br&gt;de maintenance" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="916" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1-cRLqoMps8djchPio7K-18" value="Recharger&amp;nbsp;&lt;br&gt;le guichet" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="727" y="930" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1-cRLqoMps8djchPio7K-19" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="960" as="sourcePoint" />
+            <mxPoint x="920" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
